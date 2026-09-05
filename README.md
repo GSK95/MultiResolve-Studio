@@ -63,8 +63,3 @@ MultiResolve uses **CMake** as its build generation system and targets the **MSV
 * **cpp-httplib** (Included in `vendor/`)
 * **Windows SDK** (`DirectShow`, `mfplat`, `mfreadwrite`, `mfuuid`)
 
-### Windows Build Steps
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/your-username/MultiResolve-Studio.git](https://github.com/your-username/MultiResolve-Studio.git)
-   cd MultiResolve-Studio
